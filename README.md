@@ -41,9 +41,9 @@
 ## ЛАБОРАТОРИЙН АЖЛЫН ҮР ДҮН:
 
 <p align="center">
-![lab12ob](https://github.com/user-attachments/assets/ad1c5496-f14e-46f1-8611-0f5b9f4c2866)
 
-  <img src="images/lab12ob.png" alt="lab12" width="150"/>
+
+  <img src="images/lab12obtest.png" alt="lab12" width="150"/>
 
 </p>
 
