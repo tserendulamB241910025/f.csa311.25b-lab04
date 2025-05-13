@@ -42,9 +42,8 @@
 
 <p align="center">
 
-
-  < alt="lab12" width="150"/>
- ![lab12obtest](https://github.com/user-attachments/assets/558addd4-eb5e-4754-9d0b-bc4929d30cc3)
+ lab12
+   ![lab12obtest](https://github.com/user-attachments/assets/558addd4-eb5e-4754-9d0b-bc4929d30cc3) 
 
 
 </p>
