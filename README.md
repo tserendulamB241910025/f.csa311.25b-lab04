@@ -42,7 +42,7 @@
 
 <p align="center">
 
-  <img src="images/lab12ob" alt="lab12" width="150"/>
+  <img src="images/lab12ob.png" alt="lab12" width="150"/>
 
 </p>
 
